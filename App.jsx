@@ -52,6 +52,7 @@ export default function App() {
           <span ref={progressContent}></span>
         </div>
       </Swiper>
+      {/* <h2> Hello my dear friends</h2> */}
     </>
   );
 }
